@@ -4,10 +4,11 @@ This project presents an interactive Sales Analysis Dashboard developed using Po
 
 ## Key KPIs
 The dashboard tracks the following KPIs:
-## Total Orders Average Sales 
-Average Profit
--- Average Quantity
--- Average Discount
+--Total Orders
+--Average Sales 
+--Average Profit
+--Average Quantity
+--Average Discount
 
 ## Dashboard Features & Visuals
 --Trend Analysis
@@ -31,6 +32,7 @@ Average Sales, Profit, Quantity by Category
 
 ## Business Impact
 This dashboard enables:
+
 --better decision-making through data visualization
 --identification of profitable and loss-making areas
 --targeted regional and category-level optimization
