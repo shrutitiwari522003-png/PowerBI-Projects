@@ -19,7 +19,9 @@ Total Revenue by Year
 Average Sales, Profit, Quantity by Category
 
 --Geographic Analysis
+
 --Top 5 States by Profit
+
 --Bottom 5 States by Profit
 
 --Decomposition Tree → enables root cause analysis
